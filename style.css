@@ -34,7 +34,7 @@ textarea:focus {
 
 .input_field {
     border-radius: 3px;
-    border: .5px solid rgb(61, 61, 61);
+    border: .5px solid rgb(203, 222, 222);
     padding: 1em;
     width: 100%;
 }
